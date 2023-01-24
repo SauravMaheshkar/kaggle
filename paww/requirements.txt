@@ -1,0 +1,13 @@
+albumentations
+black
+flake8
+isort
+mypy
+numpy==1.21.2
+pandas==1.3.2
+pre-commit==2.15.0
+pytest==6.2.5
+scikit-learn==0.24.2
+timm
+torch==1.9.0
+wandb>=0.12.0

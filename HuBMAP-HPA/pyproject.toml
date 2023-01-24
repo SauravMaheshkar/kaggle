@@ -1,0 +1,40 @@
+[tool.isort]
+profile = "black"
+
+[tool.black]
+line-length = 88
+
+[tool.pylint.messages_control]
+disable = [
+    "no-member",
+    "too-many-arguments",
+    "too-few-public-methods",
+    "no-else-return",
+    "arguments-differ",
+    "too-many-ancestors",
+    "duplicate-code",
+    "attribute-defined-outside-init",
+    "too-many-branches",
+    "redefined-builtin",
+    "dangerous-default-value",
+]
+
+[tool.pylint.format]
+max-line-length = 88
+
+[[tool.mypy.overrides]]
+ignore_missing_imports = true
+module = [
+    'src.*',
+    'ml_collections',
+    'tifffile',
+    'pandas',
+    'sklearn.model_selection',
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+	"ignore::UserWarning"
+]

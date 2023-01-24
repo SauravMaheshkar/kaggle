@@ -1,0 +1,8 @@
+- [Google AI4Code – Understand Code in Python Notebooks](https://www.kaggle.com/c/AI4Code)
+- [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering)
+- [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize)
+- [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/c/feedback-prize-effectiveness)
+- [HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/c/hubmap-organ-segmentation)
+- [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score)
+- [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification)
+- [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
